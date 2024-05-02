@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Tom Keel
+### Hi there, I'm Tom 👋
+---
+<!--I'm a PhD student based at UCL.-->
+
 
 <!--
 **Thomasjkeel/Thomasjkeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
