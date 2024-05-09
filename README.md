@@ -16,8 +16,8 @@ I am a PhD student at University College London. I study jet streams and their c
 + 📧 [Email](mailto:thomasjames.keel@gmail.com)
 
 ## 📋 Stats
-![](https://raw.githubusercontent.com/Thomasjkeel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Thomasjkeel/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomasjkeel&show_icons=true&theme=tokyonight)
+<!--![](https://raw.githubusercontent.com/Thomasjkeel/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
 
 <!--
 **Thomasjkeel/Thomasjkeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
