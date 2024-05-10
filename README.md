@@ -10,6 +10,7 @@ I am a PhD student at University College London. I study jet streams and their c
 ## 📌 Interests
 + Spatial 🍏, temporal 🕙 and spatiotemporal 🎐 analysis
 + Communicating data through visualisation 📡
++ Machine vision 🎯
 + Python, clean code practices 🔨 and teaching programming.  
 
 ## 📫 Contact
