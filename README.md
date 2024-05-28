@@ -2,7 +2,7 @@
 
 ## 🌱 About me
 I am a PhD student at University College London. I study jet streams and their connection to extreme weather.
-- Since 2020, I have been a PhD student in the Department of Geography.
+- Since 2020, I have been a PhD student in the Department of Geography at UCL.
 - Between 2019 and 2020, I did a few freelance jobs as a spatial data scientist and GIS software developer.
 - In 2019, I received an MSc in Spatial Data Science and Visualisation from the Centre for Advanced Spatial Analysis (CASA), UCL.
 - In 2018, I received a BSc in Geography and Geocomputation from King's College London.
