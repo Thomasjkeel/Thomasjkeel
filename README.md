@@ -2,7 +2,7 @@
 
 ## 🌱 About me
 I am a Hydrological Data Analyst at the UK Centre of Ecology & Hydrology (UKCEH). I recently completed my PhD at University College London where I studied jet streams and their connection to extreme weather.
-- Since 2025, I have been based at UKCEH
+- Since 2025, I have been based at UKCEH working on rainfall data products
 - Between 2020 and 2024, I studied for a PhD in the Department of Geography at UCL.
 - Between 2019 and 2020, I did a few freelance jobs as a spatial data scientist and GIS software developer.
 - In 2019, I received an MSc in Spatial Data Science and Visualisation from the Centre for Advanced Spatial Analysis (CASA), UCL.
