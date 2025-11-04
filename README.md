@@ -15,8 +15,8 @@ I am a Hydrological Data Analyst at the UK Centre of Ecology & Hydrology (UKCEH)
 + Python, clean code practices 🔨 and teaching programming.  
 
 ## Open-source software tools I have developed
-+ [RainfallQC](https://github.com/NERC-CEH/RainfallQC) - Python package for jet stream algorithms based on xarray.
-+ [jsmetrics](https://github.com/Thomasjkeel/jsmetrics)  - Python package for rainfall quality control based on Polars.
++ [RainfallQC](https://github.com/NERC-CEH/RainfallQC) - Python package for rainfall quality control based on Polars.
++ [jsmetrics](https://github.com/Thomasjkeel/jsmetrics) - Python package for jet stream algorithms based on xarray.
 
 ## 📫 Contact
 + 📧 [Email](mailto:thomasjames.keel@gmail.com)
