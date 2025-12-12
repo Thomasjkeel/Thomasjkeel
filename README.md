@@ -21,9 +21,6 @@ I am a Hydrological Data Analyst at the UK Centre of Ecology & Hydrology (UKCEH)
 ## 📫 Contact
 + 📧 [Email](mailto:thomasjames.keel@gmail.com)
 
-## 📋 Stats
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomasjkeel&show_icons=true&theme=tokyonight)
-
 <!--
 **Thomasjkeel/Thomasjkeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
