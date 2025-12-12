@@ -9,7 +9,7 @@ I am a Hydrological Data Analyst at the UK Centre of Ecology & Hydrology (UKCEH)
 - In 2018, I received a BSc in Geography and Geocomputation from King's College London.
 
 ## 📌 Interests
-+ All things jet streams 〰️
++ All things weather 🌦️
 + Spatial 🍏, temporal 🕙 and spatiotemporal 🎐 analysis
 + Science communication with visualisation 📡
 + Machine vision 🎯
