@@ -23,7 +23,6 @@ I am a Hydrological Data Analyst at the UK Centre of Ecology & Hydrology (UKCEH)
 
 ## 📋 Stats
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomasjkeel&show_icons=true&theme=tokyonight)
-<!--![](https://raw.githubusercontent.com/Thomasjkeel/github-stats/master/generated/languages.svg#gh-dark-mode-only)-->
 
 <!--
 **Thomasjkeel/Thomasjkeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
