@@ -22,7 +22,7 @@ I am a Hydrological Data Analyst at the UK Centre of Ecology & Hydrology (UKCEH)
 
 ## Open-source research software tools I have contributed to
 + [RainGaugeMatcha](https://codeberg.org/CEH-HOTDOG/RainGaugeMatcha) - Python package for matching two lists of rain gauges based on name and location based on Pandas.
-+ [RainGaugeMatcha](https://github.com/Ouranosinc/xclim) - Python library of derived climate variables, ie climate indicators, based on xarray.
++ [xclim](https://github.com/Ouranosinc/xclim) - Python library of derived climate variables, ie climate indicators, based on xarray.
 
 ## 📫 Contact
 + 📧 [Email](mailto:tomkee@ceh.ac.uk)
