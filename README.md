@@ -18,11 +18,14 @@ I am a Hydrological Data Analyst at the UK Centre of Ecology & Hydrology (UKCEH)
 ## Open-source research software tools I maintain
 + [RainfallQC](https://github.com/NERC-CEH/RainfallQC) - Python package for rainfall quality control based on Polars.
 + [RainfallGridder](https://codeberg.org/CEH-HOTDOG/RainfallGridder) - Python package for interpolating rain gauge data onto a regular grid based on Polars (v1.0.0 coming soon).
-+ [RainGaugeMatcha](https://codeberg.org/CEH-HOTDOG/RainGaugeMatcha) - Python package for matching two lists of rain gauges based on name and location based on Pandas.
 + [jsmetrics](https://github.com/Thomasjkeel/jsmetrics) - Python package for jet stream algorithms based on xarray.
 
+## Open-source research software tools I have contributed to
++ [RainGaugeMatcha](https://codeberg.org/CEH-HOTDOG/RainGaugeMatcha) - Python package for matching two lists of rain gauges based on name and location based on Pandas.
++ [RainGaugeMatcha](https://github.com/Ouranosinc/xclim) - Python library of derived climate variables, ie climate indicators, based on xarray.
+
 ## 📫 Contact
-+ 📧 [Email](mailto:thomasjames.keel@gmail.com)
++ 📧 [Email](mailto:tomkee@ceh.ac.uk)
 
 <!--
 **Thomasjkeel/Thomasjkeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
